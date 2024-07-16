@@ -24,7 +24,7 @@ disableKinds = ["taxonomy", "term"]
 
 [params.author]
   headline = "Mats lager musikkquiz.."
-  image = "images/qm.png"  # path relative to static directory
+  image = "images/og-image.png"  # path relative to static directory
 
   links = [
     { email = { href="mailto:mats.est+quiz@gmail.com", text="Send meg en e-post" }},
