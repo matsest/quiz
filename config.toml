@@ -13,7 +13,7 @@ enableRobotsTXT = true
 [params]
   title = "QUIZ!"
   attribution = false
-  description = "QUIZ! av Mats Estensen (Estensen MXE)"
+  description = "Musikkquiz av Mats Estensen"
   keywords = "quiz,musikkquiz,oslo,drammen,norge,mats estensen,hestedirektoratets rockequiz,vaterland"
   images = ['images/og-image.png']
 
