@@ -2,7 +2,7 @@ baseURL = "https://quiz.mxe.no/"
 languageCode = "nb"
 defaultContentLanguage = "nb"
 
-title = "QUIZ!"
+title = "QUIZ! av Mats Estensen"
 copyright = "Estensen MXE © Siden 2024"
 
 enableEmoji = true
@@ -11,7 +11,6 @@ disableKinds = ["taxonomy", "term"]
 enableRobotsTXT = true
 
 [params]
-  title = "QUIZ!"
   attribution = false
   description = "Musikkquiz av Mats Estensen"
   keywords = "quiz,musikkquiz,oslo,drammen,norge,mats estensen,hestedirektoratets rockequiz,vaterland"
@@ -25,7 +24,8 @@ enableRobotsTXT = true
   section = ['HTML']
 
 [params.author]
-  headline = "Mats lager musikkquiz.."
+  name = "QUIZ!"
+  headline = "Mats lager musikkquiz 🎵"
   image = "images/qm.png"  # path relative to static directory
 
   links = [
