@@ -3,7 +3,7 @@ languageCode = "nb"
 defaultContentLanguage = "nb"
 
 title = "QUIZ!"
-copyright = "Estensen MXE © Since 2024"
+copyright = "Estensen MXE © Siden 2024"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
