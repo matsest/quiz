@@ -8,6 +8,8 @@ copyright = "Estensen MXE © Siden 2024"
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
 
+enableRobotsTXT = true
+
 [params]
   title = "QUIZ!"
   attribution = false
