@@ -13,6 +13,10 @@ disableKinds = ["taxonomy", "term"]
   attribution = false
   description = "QUIZ! av Mats Estensen (Estensen MXE)"
   keywords = "quiz,musikkquiz,oslo,drammen,norge,mats estensen,hestedirektoratets rockequiz,vaterland"
+  images = ['images/qm.png']
+
+  [params.social]
+    twitter = 'matsest'
 
 [outputs]
   home = ['HTML']
