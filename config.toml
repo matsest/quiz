@@ -3,7 +3,7 @@ languageCode = "nb"
 defaultContentLanguage = "nb"
 
 title = "QUIZ! av Mats Estensen"
-copyright = "Estensen MXE © Siden 2024"
+copyright = "Bygget med [åpen kildekode](https://github.com/matsest/quiz) © Av Estensen MXE, siden 2024"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
