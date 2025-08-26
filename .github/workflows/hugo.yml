@@ -40,7 +40,7 @@ jobs:
             --baseURL "${{ steps.pages.outputs.base_url }}/"
           find ./public -name "*.html" -print0 | xargs -0 sed -i '/^ *$/d'
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./public
 
