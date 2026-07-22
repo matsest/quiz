@@ -23,7 +23,7 @@ jobs:
         with:
           submodules: recursive
       - name: Install Hugo # uses mise.toml for version
-        uses: jdx/mise-action@v4.2.0 # immutable release
+        uses: jdx/mise-action@v4.2.1 # immutable release
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v6
